@@ -1,0 +1,16 @@
+﻿jeu;colonne;type_pandas;valeurs_manquantes
+RW SCN;rw_scn;int64;0
+RW SCN;impact_avant;int64;0
+RW SCN;impact_apres;int64;0
+RW SCN;ecart_apres_moins_avant;int64;0
+RW SCN;ecart_absolu;int64;0
+Calibration;scenario_stress;str;0
+Calibration;dva;float64;0
+Calibration;dir_10y;float64;0
+Calibration;impact_observe;int64;0
+Calibration;impact_predit;float64;0
+Calibration;residu;float64;0
+Calibration;residu_absolu;float64;0
+Calibration;vs_tolerance;str;0
+Paramètres;parametre;str;0
+Paramètres;valeur;int64;0

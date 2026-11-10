@@ -1,0 +1,32 @@
+﻿jeu;controle;valeur;statut;remarque
+RW SCN;nombre_lignes;1100;OK;Nombre attendu : 1100
+RW SCN;nombre_colonnes;5;INFO;
+RW SCN;lignes_entierement_dupliquees;0;OK;
+RW SCN;valeurs_manquantes::rw_scn;0;OK;Type pandas : int64
+RW SCN;valeurs_manquantes::impact_avant;0;OK;Type pandas : int64
+RW SCN;valeurs_manquantes::impact_apres;0;OK;Type pandas : int64
+RW SCN;valeurs_manquantes::ecart_apres_moins_avant;0;OK;Type pandas : int64
+RW SCN;valeurs_manquantes::ecart_absolu;0;OK;Type pandas : int64
+Calibration;nombre_lignes;6;OK;Nombre attendu : 6
+Calibration;nombre_colonnes;8;INFO;
+Calibration;lignes_entierement_dupliquees;0;OK;
+Calibration;valeurs_manquantes::scenario_stress;0;OK;Type pandas : str
+Calibration;valeurs_manquantes::dva;0;OK;Type pandas : float64
+Calibration;valeurs_manquantes::dir_10y;0;OK;Type pandas : float64
+Calibration;valeurs_manquantes::impact_observe;0;OK;Type pandas : int64
+Calibration;valeurs_manquantes::impact_predit;0;OK;Type pandas : float64
+Calibration;valeurs_manquantes::residu;0;OK;Type pandas : float64
+Calibration;valeurs_manquantes::residu_absolu;0;OK;Type pandas : float64
+Calibration;valeurs_manquantes::vs_tolerance;0;OK;Type pandas : str
+Paramètres;nombre_lignes;4;OK;Nombre attendu : 4
+Paramètres;nombre_colonnes;2;INFO;
+Paramètres;lignes_entierement_dupliquees;0;OK;
+Paramètres;valeurs_manquantes::parametre;0;OK;Type pandas : str
+Paramètres;valeurs_manquantes::valeur;0;OK;Type pandas : int64
+RW SCN;identifiants_dupliques;0;OK;
+RW SCN;identifiants_manquants_1_a_1100;0;OK;[]
+RW SCN;identifiants_hors_plage_1_a_1100;0;OK;[]
+RW SCN;paires_avant_apres_completes;1100;OK;
+RW SCN;incoherences_ecart_signe;0;OK;
+RW SCN;incoherences_ecart_absolu;0;OK;
+Calibration;scenarios_stress_dupliques;0;OK;

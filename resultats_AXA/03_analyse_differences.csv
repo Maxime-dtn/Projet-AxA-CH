@@ -1,0 +1,17 @@
+﻿indicateur;valeur
+nombre_paires_valides;1100.0
+correction_moyenne_signee;-22718.30090909091
+correction_mediane_signee;2698.5
+correction_absolue_moyenne;309732.6518181818
+correction_absolue_mediane;165574.0
+ecart_type_des_corrections;530681.860569169
+maximum_correction_absolue;4591987.0
+pourcentage_corrections_positives;51.0
+pourcentage_corrections_negatives;49.0
+pourcentage_corrections_nulles;0.0
+pourcentage_changement_de_signe;1.7272727272727273
+correlation_pearson_avant_apres;0.9995945652711861
+correlation_spearman_avant_apres;0.9989354882261736
+pourcentage_abs_correction_sup_100k;63.18181818181819
+pourcentage_abs_correction_sup_500k;18.72727272727273
+pourcentage_abs_correction_sup_1M;5.7272727272727275
